@@ -9,3 +9,34 @@ It must be Serializable.
 
 
 
+
+// json data 
+
+[
+    {
+        "employeeIdentity": {
+            "companyId": 1,
+            "employeeId": 1
+        },
+        "name": "a",
+        "email": "a"
+    },
+    {
+        "employeeIdentity": {
+            "companyId": 2,
+            "employeeId": 1
+        },
+        "name": "b",
+        "email": "b"
+    },
+    {
+        "employeeIdentity": {
+            "companyId": 3,
+            "employeeId": 2
+        },
+        "name": "c",
+        "email": "c"
+    }
+]
+
+
