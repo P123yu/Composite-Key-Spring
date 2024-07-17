@@ -1,0 +1,11 @@
+
+
+In order to define the composite primary keys, we should follow some rules:
+
+The composite primary key class must be public.
+It must have a no-arg constructor.
+It must define the equals() and hashCode() methods.
+It must be Serializable.
+
+
+
